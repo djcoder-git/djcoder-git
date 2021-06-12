@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=djcoder-git)
 
 <!-- Image insert -->
-<img align="right" alt="GIF" src="github.com/djcoder-git/djcoder-git/Images/sound.gif" width="500" height="340" />
+<a href="https://www.youtube.com/channel/UCqPTnX-8qnNmfnQdLVbi9Ow" target="_blank"><img alt="My Youtube Channel" align="right" src="https://github.com/djcoder-git/djcoder-git/blob/main/Images/sound.gif"></a>
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
