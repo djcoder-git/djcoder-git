@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to draw and play drums
 
 <!-- Image insert -->
-
+<img src="https://i.gifer.com/CH7i.gif" width="200">
 <!-- Languages and tools -->
 
 ### Languages and Tools:
