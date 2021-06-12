@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=djcoder-git)
 
 <!-- Image insert -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" width="500" height="340" />
+<img align="right" alt="GIF" src="github.com/djcoder-git/djcoder-git/Images/sound.gif" width="500" height="340" />
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
