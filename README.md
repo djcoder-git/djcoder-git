@@ -5,7 +5,7 @@
 
 <!-- Image insert -->
 
-<a href="https://twitter.com/ktm_dragon"></a><img alt="My Youtube Channel" align="right" src="https://github.com/djcoder-git/djcoder-git/blob/main/Images/sound.gif"></a>
+<img alt="My Youtube Channel" align="right" src="https://github.com/djcoder-git/djcoder-git/blob/main/Images/sound.gif"></a>
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
