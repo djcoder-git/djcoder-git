@@ -1,14 +1,18 @@
 <!-- Intro about me -->
 
 #### Hi, I'm Ashim Shakya, a Passionate | learner | tech-enthusiast | Banker | 🙌 from Kathmandu, Nepal.
+![](https://visitor-badge.glitch.me/badge?page_id=djcoder-git)
+
+<!-- Image insert -->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" width="500" height="340" />
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play drums
 
-<!-- Image insert -->
-<img src="https://i.gifer.com/CH7i.gif" width="200">
+
+
 <!-- Languages and tools -->
 
 ### Languages and Tools:
