@@ -1,6 +1,6 @@
 <!-- Intro about me -->
 
-#### Hi, I'm Ashim Shakya, a Passionate | learner | tech-enthusiast | Banker | 🙌 from Kathmandu, Nepal.
+#### Hi, I'm Ashim Shakya, a Passionate | learner | tech-enthusiast | 🙌 from Kathmandu, Nepal.
 ![](https://visitor-badge.glitch.me/badge?page_id=djcoder-git)
 
 - 🌱 I’m currently learning everything 🤣
