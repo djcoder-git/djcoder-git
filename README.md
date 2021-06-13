@@ -3,6 +3,8 @@
 #### Hi, I'm Ashim Shakya, a Passionate | learner | tech-enthusiast | 🙌 from Kathmandu, Nepal.
 ![](https://visitor-badge.glitch.me/badge?page_id=djcoder-git)
 
+<img alt="My github" align="right" src="https://github.com/djcoder-git/djcoder-git/blob/main/Images/sound.gif">
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
