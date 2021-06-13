@@ -5,8 +5,7 @@
 
 <img alt="My github" align="right" src="https://github.com/djcoder-git/djcoder-git/blob/main/Images/sound.gif">
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning Python Django framework
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play drums
 
@@ -20,5 +19,4 @@
 <img align="left" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="C" width="40" height="40" src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png" />
 <img align="left" alt="CPP" width="40" height="40" src="https://www.pikpng.com/pngl/m/469-4698781_learning-c-programming-4-c-logo-svg-clipart.png" />
-<img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" src="https://github.com/djcoder-git/djcoder-git/blob/main/Images/Python.svg" alt="python" width="40" height="40"/>
