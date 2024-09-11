@@ -5,7 +5,7 @@
 
 <img alt="My github" align="right" src="https://github.com/djcoder-git/djcoder-git/blob/main/Images/sound.gif">
 
-- 🌱 I’m currently learning Python Django framework
+- 🌱 I’m currently learning Data Science
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play drums
 
